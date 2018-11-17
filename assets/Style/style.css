@@ -1,0 +1,21 @@
+header{
+    
+    text-align: center;
+    padding: 10px 0 10px 0;
+    font-size: 72px;
+    background: -webkit-linear-gradient(white, black);
+    /* text-shadow: 0 0 5px; */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    
+}
+
+#container{ 
+    margin-left: 5%;
+    margin-right: 5%;
+    align-content: center;
+    background-color: #eee;
+    
+
+}  
